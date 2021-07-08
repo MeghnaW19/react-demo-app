@@ -1,0 +1,15 @@
+.Footer {
+    background-color: goldenrod;
+    font-style: italic;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: white;
+    font-weight: 400;
+    height: 70px;
+    /* margin-bottom: 50px; */
+}
+
+p {
+    color: black;
+    padding-left: 140px;
+}
